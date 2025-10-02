@@ -10,7 +10,7 @@ Instead of the traditional Xs and Os, the game uses **colored squares**: the **b
 
 The game combines Python programming with a graphical interface using **Tkinter** and **Pillow**, making the gameplay both visually engaging and interactive.  
 
-🚀 **##Requirements**
+🚀 **Requirements**
 
 Before running the project, make sure you have:
 
