@@ -18,3 +18,32 @@ Before running the project, make sure you have:
  * The following Python libraries installed:
  	- **tkinter** (comes by default with Python)
 	- **pillow**
+
+
+⚙️ Installation
+
+1.Clone or download the project folder.
+
+git clone https://github.com/NadiaZapodeanuNZ/Tic_Tac_Toe.git
+cd Tic_Tac_Toe_Python
+
+
+(If you don’t use GitHub, just download and extract the ZIP file instead.)
+Install dependencies (only Pillow needs to be installed manually):
+
+`python -m pip install pillow`
+
+▶️ Running the Game
+
+To start the game, run:
+
+`python graphics.py`
+
+
+A game window should appear where you can play Tic Tac Toe.
+
+🛠️ Troubleshooting
+
+If you get an error like ModuleNotFoundError: No module named 'PIL', install Pillow again with:
+
+`python -m pip install pillow`
