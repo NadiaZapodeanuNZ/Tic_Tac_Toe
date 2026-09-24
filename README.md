@@ -3,12 +3,12 @@
 
 The following link provides access to the demo video : https://youtu.be/vAFYtTS_0cg
 
-🎲**Tic Tac Toe with AI** is a Python-based game that offers a creative twist on the classic Tic Tac Toe experience.  
+**Tic Tac Toe with AI** is a Python-based game that offers a creative twist on the classic Tic Tac Toe experience.  
 Instead of the traditional Xs and Os, the game uses **colored squares**: the **blue square** represents the human player, while the **red square** represents the AI opponent.  
 
 The game combines Python programming with a graphical interface using **Tkinter** and **Pillow**, making the gameplay both visually engaging and interactive.  
 
-🚀 **Requirements**
+**Requirements**
 
 Before running the project, make sure you have:
 
@@ -18,7 +18,7 @@ Before running the project, make sure you have:
 	- **pillow**
 
 
-⚙️ **Installation**
+**Installation**
 
 **1.Clone or download the project folder**.
 git clone https://github.com/NadiaZapodeanuNZ/Tic_Tac_Toe.git
@@ -30,7 +30,7 @@ git clone https://github.com/NadiaZapodeanuNZ/Tic_Tac_Toe.git
 
 `python -m pip install pillow`
 
-▶️ **Running the Game**
+**Running the Game**
 
 To start the game, run:
 
@@ -38,13 +38,13 @@ To start the game, run:
 
 A game window should appear where you can play Tic Tac Toe.
 
-🛠️ **Troubleshooting**
+**Troubleshooting**
 
 If you get an error like **ModuleNotFoundError**: No module named 'PIL', install Pillow again with:
 
 `python -m pip install pillow`
 
 
-📝**Learning Outcomes**
+**Learning Outcomes**
 
 Through this project, I gained practical experience with **Python graphics** using **Tkinter** and **Pillow**, strengthened my understanding of **object-oriented programming (OOP)**, and explored **artificial intelligence concepts**. I implemented the **Minimax algorithm** to create an AI opponent, learning how algorithmic thinking can drive strategic gameplay. Overall, the project combined graphics, OOP, and AI in a fun and educational way.
